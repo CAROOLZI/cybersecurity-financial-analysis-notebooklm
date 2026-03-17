@@ -18,3 +18,5 @@ O objetivo foi analisar o impacto financeiro de incidentes de cibersegurança e 
 ## 👤 Autora
 **Carolina 
 *Técnica em Informática  | Focada em Cybersecurity e Automação **
+
+![Resultado do Desafio](./print%20cyber.PNG)
